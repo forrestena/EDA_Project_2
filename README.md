@@ -21,3 +21,6 @@ Of the four types of sources indicated by the \color{red}{\verb|type|}type (poin
 Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (\color{red}{\verb|fips == "06037"|}fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
+
+
+Data Source: https://www3.epa.gov/ttn/chief/eiinformation.html
